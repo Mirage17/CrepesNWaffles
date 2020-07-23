@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crepes&amp;Waffles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name"><![CDATA[Crepes&Waffles]]></string>
+    <string name="heladeria"><![CDATA[Heladería & Gourmet]]></string>
+    <string name="Menu">Menu</string>
+    <string name="Galeria">Galería</string>
+    <string name="Quienes_Somos">Quienes Somos</string>
+    <string name="whoWeAre"><![CDATA["Nace Crepes & Waffles  Un domingo, el 13 de abril de 1980, nace un sueño y una ilusión. Dos jóvenes universitarios llenos de pasión y amor se lanzan a hacer una idea realidad. En un pequeño local en Bogotá, ubicado en la calle 85 con carrera 11, abren por primera vez Crepes & Waffles; una pequeña crepería estilo rústico francés con una barra de madera y un ambiente joven e informal, en donde buscaban despertar admiración por servir arte sano con amor y alegría a precios razonables. "]]></string>
+    <string name="place">Punto de Venta</string>
+    <string name="Dir_Example">cr 58# 42C-Sur</string>
+    <string name="ejemplo_nombre">Doble Pocket</string>
+    <string name="ejemplo_precio">21000</string>
+</resources>
