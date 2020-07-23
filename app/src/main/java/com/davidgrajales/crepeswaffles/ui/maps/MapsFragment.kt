@@ -1,14 +1,12 @@
 package com.davidgrajales.crepeswaffles.ui.maps
 
 import android.location.Geocoder
-import androidx.fragment.app.Fragment
-
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import com.davidgrajales.crepeswaffles.R
-
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
@@ -36,7 +34,7 @@ class MapsFragment : Fragment() {
 
         googleMap.mapType=GoogleMap.MAP_TYPE_NORMAL
         googleMap.uiSettings.isZoomControlsEnabled=true
-        googleMap.setOnPoiClickListener(context)
+        
 
         val CW1= LatLng(6.161793, -75.605005)
         googleMap.addMarker(MarkerOptions().position(CW1).title("Crepes&Waffles Mayorca"))
